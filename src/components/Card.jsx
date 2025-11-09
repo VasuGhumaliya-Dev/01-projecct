@@ -1,5 +1,4 @@
 import React from 'react'
-import amazon from '../assets/amazon.jpg'
 import { Bookmark } from 'lucide-react'
 
 function Card(props) {
